@@ -1,0 +1,23 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.contenedor{
+	margin-top: 20px;
+	border:1px solid red;
+	overflow: hidden;
+	height: 300px;
+}
+
+.contenedor ul{
+	border: 1px solid red;
+}
+
+.contenedor ul li{
+	display: block;
+	height: 70px;
+	width: 70px;
+	border: 1px solid black;
+}
